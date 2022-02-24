@@ -18,7 +18,7 @@ repository:
   topics: 
   #- github
   - safe-settings
-  #- new-topic
+  - test-topic
   #- another-topic
   #- topic-12
   
