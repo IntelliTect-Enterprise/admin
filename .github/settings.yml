@@ -19,7 +19,6 @@ repository:
   #- github
   - safe-settings
   - test-topic
-  - another-topic
   #- topic-12
   
   # Either `true` to make the repository private, or `false` to make it public. 
